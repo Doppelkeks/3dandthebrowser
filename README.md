@@ -1,2 +1,4 @@
 # 3dandthebrowser
-Tinkering with Three.JS
+Tinkering with Three.js!
+
+A small edit...
